@@ -1,3 +1,4 @@
 This is new fileA version 1.0.0
 adding 2nd line
 3rd line added
+dev branch modification
